@@ -1,0 +1,7 @@
+*.db
+*.env
+*.DS_Store
+*.sql
+notebooks/
+.vscode/
+**__pycache__/
